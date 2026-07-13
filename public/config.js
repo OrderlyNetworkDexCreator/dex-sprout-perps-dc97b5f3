@@ -30,7 +30,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_URL": "https://sproutperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
-  "VITE_SEO_TWITTER_HANDLE": "",
+  "VITE_SEO_TWITTER_HANDLE": "@SproutPerps",
   "VITE_SEO_THEME_COLOR": "#14f195",
   "VITE_SEO_KEYWORDS": "solana dex, solana perps, leverage trading, perpetual swaps, phantom wallet, crypto derivatives, solana trading, trade solana perps",
   "VITE_AVAILABLE_LANGUAGES": "en",
