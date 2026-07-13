@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/SproutPerps",
   "VITE_SEO_SITE_NAME": "Sprout Perps | Trade Solana Perps with Leverage",
   "VITE_SEO_SITE_DESCRIPTION": "Trade Solana perps with deep shared liquidity, up to 50x leverage, and competitive fees. Connect your Solana wallet and start trading instantly on Sprout Perps.",
   "VITE_SEO_SITE_URL": "https://sproutperps.com",
