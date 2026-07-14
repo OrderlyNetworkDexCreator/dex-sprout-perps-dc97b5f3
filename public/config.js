@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade Solana perps with deep shared liquidity, up to 50x leverage, and competitive fees. Connect your Solana wallet and start trading instantly on Sprout Perps.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Vaults,Leaderboard,Portfolio,Rewards",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Vaults,Leaderboard,Portfolio",
   "VITE_CUSTOM_MENUS": "Refer & Earn, https://sproutperps.com/rewards/affiliate",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
