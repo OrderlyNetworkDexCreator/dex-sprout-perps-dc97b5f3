@@ -1,4 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
+  "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "sproutperps",
   "VITE_ORDERLY_BROKER_NAME": "Sprout Perps",
   "VITE_BROKER_EOA_ADDRESS": "0xe8f61bc0037a02e6940e68dbb2668dc5fcc40535",
