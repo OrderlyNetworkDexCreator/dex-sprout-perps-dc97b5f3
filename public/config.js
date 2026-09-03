@@ -1,7 +1,7 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
   "VITE_ORDERLY_BROKER_ID": "sproutperps",
-  "VITE_ORDERLY_BROKER_NAME": "Sprout.",
+  "VITE_ORDERLY_BROKER_NAME": "Sprout - Solana Perps DEX",
   "VITE_BROKER_EOA_ADDRESS": "0xe8f61bc0037a02e6940e68dbb2668dc5fcc40535",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "Sprout.",
+  "VITE_APP_NAME": "Sprout - Solana Perps DEX",
   "VITE_APP_DESCRIPTION": "Trade Solana perps with deep shared liquidity, up to 100x leverage, and competitive trade fees,. Connect your Solana wallet and start trading instantly on Sprout.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
