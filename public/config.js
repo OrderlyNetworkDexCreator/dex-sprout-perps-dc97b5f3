@@ -26,7 +26,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "https://t.me/SproutPerps",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/SproutPerps",
-  "VITE_SEO_SITE_NAME": "Sprout | Solana perps DEX for crypto and RWAs",
+  "VITE_SEO_SITE_NAME": "Sprout | Solana Perps DEX for Crypto and RWAs",
   "VITE_SEO_SITE_DESCRIPTION": "Trade Solana perps with deep shared liquidity, up to 100x leverage, and competitive trade fees. Connect your Solana wallet and start trading instantly on Sprout.",
   "VITE_SEO_SITE_URL": "https://sproutperps.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
